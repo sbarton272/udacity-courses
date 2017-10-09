@@ -1,5 +1,8 @@
 # Files
 venv/
+notMNIST_large
+notMNIST_small
+notMNIST.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -63,6 +66,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+.local
 
 # Mac
 .DS_Store
